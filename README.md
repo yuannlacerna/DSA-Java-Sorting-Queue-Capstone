@@ -281,11 +281,11 @@ Using the 7 sample packages, the resulting dispatch order is:
 
 **Enqueue**
 
-![Enqueue](screenshots/enqueue.png)
+![Enqueue](screenshots/Enqueue.png)
 
 **Display queue**
 
-![Display queue](screenshots/ENQUEUE.png)
+![Display queue](screenshots/Current%20Queue.png)
 
 **Dequeue (FIFO)**
 
