@@ -255,16 +255,15 @@ Using the 7 sample packages, the resulting dispatch order is:
 > All screenshots are stored in the `screenshots/` folder and were taken from the submitted `Phoenix_Courier_Service.java`.
 
 ### 9.1 Main Menu
-
-![Main menu](screenshots/Main Menu.png)
+![Main menu](screenshots/Main%20Menu.png)
 
 ### 9.2 Add Package (with validation)
-
-![Add package](screenshots/Adding Package.png)
+![Add package](screenshots/Adding%20Package.png)
 
 ### 9.3 Display All Packages
+![Display packages 1](screenshots/Displaying%20Package.png)
 
-![Display packages](screenshots/Displaying Package.png)(screenshots/Displaying Package 2.png)
+![Display packages 2](screenshots/Displaying%20Package%202.png)
 
 ### 9.6 Merge Sort (before and after)
 
