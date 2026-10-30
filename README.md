@@ -307,7 +307,7 @@ Using the 7 sample packages, the resulting dispatch order is:
 
 | Requirement | How it is met |
 |---|---|
-| No custom classes for entities or logic | The only class is `CourierHub`, the container for `main`; there are no objects for packages, customers, or transactions |
+| No custom classes for entities or logic | The only class is `Phoenix_Courier_Service`, the container for `main`; there are no objects for packages, customers, or transactions |
 | No inheritance, polymorphism, encapsulation, or abstraction | None used |
 | Sorting and queue not in custom classes | `mergeSort`, `merge`, and `insertionSort` are static methods; the queue is Java's built-in `Queue` |
 | Records stored in ArrayLists | Eight parallel `ArrayList`s with consistent indexes |
