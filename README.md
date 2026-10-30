@@ -92,7 +92,7 @@ javac -version
 
 > **Tip:** On first run, choose **option 10 (Load sample data)** to fill the system with 7 test packages.
 
-You can also run it from an IDE (IntelliJ IDEA, Eclipse, NetBeans, VS Code): open the file and run the `main` method of `CourierHub`.
+You can also run it from an IDE (IntelliJ IDEA, Eclipse, NetBeans, VS Code): open the file and run the `main` method of `Phoenix_Courier_Service`.
 
 ---
 
