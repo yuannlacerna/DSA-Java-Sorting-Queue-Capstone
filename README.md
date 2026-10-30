@@ -265,23 +265,23 @@ Using the 7 sample packages, the resulting dispatch order is:
 
 ![Display packages 2](screenshots/Displaying%20Package%202.png)
 
-### 9.6 Merge Sort (before and after)
+### 9.4 Merge Sort (before and after)
 
-![Merge sort](screenshots/Sorting 1.png)
+![Merge sort](screenshots/Sorting%201.png)
 
-### 9.7 Insertion Sort (before and after)
+### 9.5 Insertion Sort (before and after)
 
-![Insertion sort](screenshots/Sorting 2.png)
+![Insertion sort](screenshots/Sorting%202.png)
 
-### 9.8 Route Optimizer
+### 9.6 Route Optimizer
 
-![Route optimizer](screenshots/Queue operation (Route Optimazer).png)
+![Route optimizer](screenshots/Queue%20operation%20(Route%20Optimazer).png)
 
-### 9.9 Queue Operations
+### 9.7 Queue Operations
 
 **Enqueue**
 
-![Enqueue](screenshots/10-enqueue.png)
+![Enqueue](screenshots/enqueue.png)
 
 **Display queue**
 
@@ -295,9 +295,10 @@ Using the 7 sample packages, the resulting dispatch order is:
 
 ![FIFO demo](screenshots/15-fifo-demo.png)
 
-### 9.11 Invalid Input Handling
+### 9.8 Invalid Input Handling
 
-![Invalid input](screenshots/Error Handling.png)(screenshots/Error Handling 2.png)
+![Invalid input](screenshots/Error%20Handling.png)
+![Invalid input2](screenshots/Error%20Handling%202.png)
 
 
 ---
