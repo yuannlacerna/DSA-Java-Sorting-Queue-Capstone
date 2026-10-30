@@ -268,11 +268,11 @@ Using the 7 sample packages, the resulting dispatch order is:
 
 ### 9.6 Merge Sort (before and after)
 
-![Merge sort](screenshots/Sorting 1 (Merge Sort).png)
+![Merge sort](screenshots/Sorting 1.png)
 
 ### 9.7 Insertion Sort (before and after)
 
-![Insertion sort](screenshots/Sorting 2(Insertion Sort).png)
+![Insertion sort](screenshots/Sorting 2.png)
 
 ### 9.8 Route Optimizer
 
