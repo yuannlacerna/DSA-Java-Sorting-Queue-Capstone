@@ -318,7 +318,7 @@ Using the 7 sample packages, the resulting dispatch order is:
 ## 11. Project Structure
 
 ```
-project-folder/
+DSA-Java-Sorting-Queue-Capstone/
 ├── src/
     └──Phoenix_Courier_Service.java
 ├── README.md
