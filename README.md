@@ -323,7 +323,7 @@ DSA-Java-Sorting-Queue-Capstone/
     ├── 01-Adding Package.png
     ├── 02-Current Queue.png
     ├── ...
-    └── 12-Sorting 2(Insertion Sort)..png
+    └── 12-Sorting 2.png
 ```
 
 ---
