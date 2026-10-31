@@ -291,9 +291,6 @@ Using the 7 sample packages, the resulting dispatch order is:
 
 ![Dequeue](screenshots/Dequeue.png)
 
-**FIFO demonstration**
-
-![FIFO demo](screenshots/15-fifo-demo.png)
 
 ### 9.8 Invalid Input Handling
 
